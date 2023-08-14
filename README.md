@@ -139,6 +139,7 @@ Links:
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/FOpHIbt.png"> | [Lil Chonky Bois](https://github.com/sanderboer/chonkybois) | MX hotswap, wireless version. <br /> [![License: Creative Commons Zero](https://img.shields.io/badge/License-CC%20Zero-lightgrey.svg)](https://github.com/sanderboer/chonkybois/blob/main/LICENSE) |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/wQxLrBZ.png"> | [elephant42](https://github.com/illness072/elephant42) | [![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)](http://www.wtfpl.net/about/) |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/Xt1FBFW.png"> | [pteron](https://github.com/FSund/pteron-keyboard) | An ergonomic keyboard heavily inspired by the [Atreus](https://github.com/technomancy/atreus), [Iris](https://github.com/keebio/iris-case) and [Atreis](https://github.com/dekonnection/atreis) keyboards. <br /> [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/) |
+| <img loading="lazy" minwidth="500" src="https://i.imgur.com/iZjgrMD.jpg"> | [KLOR](https://github.com/GEIGEIGEIST/KLOR) | 36-42 keys column-staggered split keyboard <br /> [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) |
 | <img loading="lazy" minwidth="500" src="https://github.com/strayer/taira-keyboard/raw/main/docs/taira-1.0.jpg"> | [Taira](https://github.com/strayer/taira-keyboard) | A wireless low-profile split mechanical keyboard with 66 keys inspired by the ErgoDash and Corne Chocolate <br /> [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/ZYnfRRh.png"> | [Miryoku ZMK](https://github.com/manna-harbour/miryoku_zmk) | ergonomic, minimal, orthogonal, and universal keyboard layout<br /> [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) |
 | <img loading="lazy" minwidth="500" src="https://github.com/Dachtire/sok42/raw/main/doc/image/01_overview.jpg"> | [sok42](https://github.com/Dachtire/sok42) | split keyboard with 42 optical switches of each<br /> [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) |
@@ -190,7 +191,6 @@ Links:
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/3QfVLFR.jpg"> | [mlego/m60_split](https://gitlab.com/m-lego/m60_split) | 60 keys 5x12, split, encoders and led strips (optionally) qmk firmware stm32f401<br /> [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/12qGBFm.jpg"> | [mlego/m65 v4](https://gitlab.com/m-lego/m65) | 65 keys 5x13, encoder and led strip (optionally) qmk firmware stm32f401 <br /> [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/tXKAT8e.png"> | [mlego/m65 rev 5](https://gitlab.com/m-lego/m65) | 65 keys 5x13, oled, encoder and led strip (optionally) qmk firmware rp2040 <br /> [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) |
-| <img loading="lazy" minwidth="500" src="https://i.imgur.com/iZjgrMD.jpg"> | [KLOR](https://github.com/GEIGEIGEIST/KLOR) | 36-42 keys column-staggered split keyboard <br /> [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/zyLhdgU.png"> | [scottokeebs](https://github.com/joe-scotto/scottokeebs) | All keyboards made by joe-scotto <br /> [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/) |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/hFAVjOi.jpg"> | [mlego/m65 rev 7/8](https://mlego.elena.space/m65/) | 65 keys 5x13, encoder and led strip (optionally) qmk/zmk firmware xiao rp2040/xiao ble (2x74HC595) <br /> [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/9WsTfh1.jpg"> | [mlego/m65 rev 9](https://mlego.elena.space/m65/) | 65 keys 5x13-14, oled, encoder clickable and led strip (optionally) qmk firmware xiao rp2040 (2x74HC595 1X74HC165) <br /> [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) |
@@ -361,6 +361,7 @@ Others:
 - [KiCad Parts by Daprice](https://github.com/daprice/keyswitches.pretty)  - KiCAD footprint library for kailh choc and MX-style mechanical switches
 - [KiCad Parts by Keebio](https://github.com/keebio/Keebio-Parts.pretty)  - Various KiCAD footprints for mechanical keyboard parts
 - [KiCAD Parts by TMK](https://github.com/tmk/keyboard_parts.pretty)  - KiCad modules for keyboard design
+- [KiCAD Parts marbastlib](https://github.com/ebastler/marbastlib) - KiCAD symbols and footprints for mechanical keyboard design, can be added as a plugin
 - [Keyswitch Datasheets](https://github.com/keyboardio/keyswitch_documentation)
 - [QMK Proton C symbol/footprint for KiCad](https://github.com/qmk/qmk_hardware/tree/master/kicad/proton_c),  [Eagle](https://github.com/qmk/qmk_hardware/tree/master/eagle)
 - [ESP32-kiCAD-Footprints](https://github.com/adamjvr/ESP32-kiCAD-Footprints)
@@ -375,7 +376,7 @@ Others:
 -   [lets-split-guide](https://github.com/nicinabox/lets-split-guide)  - This guide covers building a Let's Split v2.
 -   [the 1-Key-Keyboard project](http://blog.flipwork.nl/?x=entry:entry081009-142605;comments:1)  - One key keyboard using Attiny85.
 -   [4-key-keyboard](http://blog.flipwork.nl/?x=entry:entry100224-003937)  - Four key keyboard using Attiny85.
-
+-   [zmk design guide by eblaster](https://github.com/ebastler/zmk-designguide) - while it targets zmk keyboards the lessons apply wider than zmk
 ---
 
 ### Contributing
